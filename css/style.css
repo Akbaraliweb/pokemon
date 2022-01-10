@@ -1,0 +1,99 @@
+body{
+    background-color: #FFD845;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo_img{
+    width: 610px;
+    height: 225px;
+    margin-left: 100px;
+}
+
+img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 157px;
+    height: 157px;
+}
+
+.container{
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.left-margin{
+    margin-left: 20px;
+}
+
+p{
+    display: inline-block;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+.from_box{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.Choose_div{
+    border-radius: 15px;
+    width: 260px;
+    height: 60px;
+    border: 2px solid #000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button{
+    width: 260px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: white;
+    border: 2px solid #000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pokemons__card {
+    width: 307px;
+    height: 380px;
+    border-radius: 20px;
+    border: 2px solid #000;
+}
+  
+.pokemon_box{
+    margin-top: 100px;
+}
+
+.pokemons__list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    margin: -15px;
+}
+  
+.pokemons__item {
+    margin: 15px;
+}
+
+.pokemons__list{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h5{
+    font-size: 24px;
+    font-weight: bold;
+}
